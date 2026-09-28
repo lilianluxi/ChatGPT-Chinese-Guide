@@ -35,6 +35,18 @@ ChatHao 是面向中文用户的第三方 AI 服务。具体支持的模型、�
 
 ## 📚 内容导航
 
+## 📚 ChatGPT 中文使用教程
+
+### 入门指南
+
+- 🇨🇳 **[2026 国内如何使用 ChatGPT？](docs/chatgpt-china-guide.md)**  
+  ChatGPT 中文版、国内使用、网页版以及第三方 AI 服务完整说明。
+
+- 🪞 **[2026 ChatGPT 镜像站指南](docs/chatgpt-mirror-guide.md)**  
+  ChatGPT 镜像、ChatGPT 中文镜像是什么？镜像站和官方 ChatGPT 有什么区别？
+
+### 本页内容
+
 - [ChatGPT 中文版是什么？](#chatgpt-中文版是什么)
 - [ChatGPT 镜像站是什么？](#chatgpt-镜像站是什么)
 - [国内如何使用 ChatGPT？](#国内如何使用-chatgpt)
