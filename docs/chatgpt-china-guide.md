@@ -1,8 +1,10 @@
 # 2026 国内如何使用 ChatGPT？ChatGPT 中文版与国内使用指南
+👉 **[查看完整教程：2026 国内如何使用 ChatGPT？](docs/chatgpt-china-guide.md)**
+
 
 > 本文整理 2026 年 ChatGPT 中文使用相关信息，包括 ChatGPT 中文版、ChatGPT 国内使用、网页版、第三方 AI 服务以及常见问题，帮助中文用户理解不同使用方式之间的区别。
 
-[← 返回 ChatGPT 中文版使用指南](../README.md)
+- [2026 国内如何使用 ChatGPT？ChatGPT 中文版与国内使用指南](docs/chatgpt-china-guide.md)
 
 ---
 
